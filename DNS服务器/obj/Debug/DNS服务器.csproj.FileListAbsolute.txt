@@ -1,0 +1,9 @@
+E:\c#\c#\DNS服务器\DNS服务器\bin\Debug\DNS服务器.exe.config
+E:\c#\c#\DNS服务器\DNS服务器\bin\Debug\DNS服务器.exe
+E:\c#\c#\DNS服务器\DNS服务器\bin\Debug\DNS服务器.pdb
+E:\c#\c#\DNS服务器\DNS服务器\obj\Debug\DNS服务器.Properties.Resources.resources
+E:\c#\c#\DNS服务器\DNS服务器\obj\Debug\DNS服务器.csproj.GenerateResource.Cache
+E:\c#\c#\DNS服务器\DNS服务器\obj\Debug\DNS服务器.exe
+E:\c#\c#\DNS服务器\DNS服务器\obj\Debug\DNS服务器.pdb
+E:\c#\c#\DNS服务器\DNS服务器\obj\Debug\DNS服务器.Form1.resources
+E:\c#\c#\DNS服务器\DNS服务器\obj\Debug\DNS服务器.csprojResolveAssemblyReference.cache
